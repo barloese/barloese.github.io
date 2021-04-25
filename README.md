@@ -1,9 +1,7 @@
 # barloese.github.io
 
 
-This repo is a clone of the repo found on https://github.com/glickmac/glickmac.github.io
 Below is the a copy of the original README.md file from the repo.
-
 ```
 The repository holds the code used on my mini-website, 
 [glickmac.github.io](http://glickmac.github.io).
