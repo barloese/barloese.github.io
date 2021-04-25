@@ -1,11 +1,10 @@
 # barloese.github.io
 
 
-
 This repo is a clone of the repo found on https://github.com/glickmac/glickmac.github.io
-Below the line is the a copy of the original README.md file from the repo.
------------------------------------------------------------------------------------------
+Below is the a copy of the original README.md file from the repo.
 
+```
 The repository holds the code used on my mini-website, 
 [glickmac.github.io](http://glickmac.github.io).
 
@@ -30,3 +29,4 @@ Site theme based on _Identity_ by HTML5 UP:
 >* [CSS3 Pie](http://css3pie.com)
 >* [Respond.js](http://j.mp/respondjs)
 >* [Skel](http://skel.io)
+```
